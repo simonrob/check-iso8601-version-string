@@ -1,0 +1,6 @@
+-   id: check-iso8601-version-string
+    name: Check ISO 8601 version string
+    description: This hook checks that an ISO 8601 version string (in `__version__`) is valid and set to today's date
+    entry: check-iso8601-version-string
+    language: python
+    types: [python]
