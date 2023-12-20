@@ -1,0 +1,5 @@
+repos:
+-   repo: https://github.com/simonrob/check-iso8601-version-string
+    rev: v2023-12-20
+    hooks:
+    -   id: check-iso8601-version-string
